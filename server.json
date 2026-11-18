@@ -3,7 +3,7 @@
   "name": "io.drint/drict",
   "title": "Drict",
   "description": "Check a product label against the label law of 48 countries: found, missing, check by eye.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icons": [
     {
       "src": "https://drint.io/drict/favicon.svg",
@@ -11,6 +11,10 @@
     }
   ],
   "websiteUrl": "https://drint.io/drict/mcp",
+  "repository": {
+    "url": "https://github.com/drint-io/drict-mcp",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
