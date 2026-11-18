@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "drict",
+  "version": "1.0.0",
+  "description": "Label-law checks in your AI agent: what a product label must carry in 48 countries, and what your label is missing, each point with its law.",
+  "author": {
+    "name": "Drint",
+    "email": "support@drint.io",
+    "url": "https://drint.io"
+  },
+  "homepage": "https://drint.io/drict/mcp",
+  "repository": "https://github.com/drint-io/drict-mcp",
+  "license": "MIT",
+  "keywords": ["label", "labeling", "label law", "regulatory", "compliance check", "food label", "cosmetics label", "packaging", "export"]
+}

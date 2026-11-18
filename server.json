@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.drint/drict",
+  "title": "Drict",
+  "description": "Check a product label against the label law of 48 countries: found, missing, check by eye.",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "https://drint.io/drict/favicon.svg",
+      "mimeType": "image/svg+xml"
+    }
+  ],
+  "websiteUrl": "https://drint.io/drict/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://drint.io/drict/mcp"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "drict",
+  "displayName": "Drict",
+  "version": "1.0.0",
+  "description": "Label-law checks in Cursor: what a product label must carry in 48 countries, and what a label's text is missing, each point with its law and official source, through the hosted Drict MCP server.",
+  "author": {
+    "name": "Drint",
+    "email": "support@drint.io",
+    "url": "https://drint.io"
+  },
+  "homepage": "https://drint.io/drict/mcp",
+  "repository": "https://github.com/drint-io/drict-mcp",
+  "license": "MIT",
+  "keywords": ["label", "labeling", "regulatory", "food label", "cosmetics label", "packaging", "export", "mcp"],
+  "logo": "logo.png",
+  "mcpServers": ".mcp.json"
+}

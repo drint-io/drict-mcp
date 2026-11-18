@@ -1,0 +1,10 @@
+{
+  "name": "drict",
+  "version": "1.0.0",
+  "description": "Check a product label against the label law of 48 countries with Drict, hosted at https://drint.io/drict/mcp.",
+  "mcpServers": {
+    "drict": {
+      "httpUrl": "https://drint.io/drict/mcp"
+    }
+  }
+}
