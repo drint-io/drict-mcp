@@ -1,5 +1,7 @@
 # Drict MCP — label-law checks for 48 countries
 
+[![AllMCPs Verified](https://allmcps.com/api/badge/drict)](https://allmcps.com/mcp/drict?verify=48c7354b-71af-48d3-be6f-d1abe111ac9e)
+
 **Drict** checks the text of a product label against the label law of the country where it is sold. It covers 48 countries and lists what the law asks for: found (with the line it was found on), not found, needed only in some cases, and what to check by eye. Each point names its law and links to the official text.
 
 This repository holds the setup files for the **hosted** Drict MCP server. There is nothing to install or run:
