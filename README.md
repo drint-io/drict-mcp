@@ -113,6 +113,7 @@ Give the label's printed text, every line of it: name, ingredients, net quantity
 - Drict: https://drint.io/drict
 - Pricing: https://drint.io/drict/pricing
 - Support: support@drint.io
+- Privacy Policy: https://drint.io/privacy (the MCP server keeps no label text; requests are rate-limited by address)
 - Drint (packaging mockups and dielines) has its own MCP server: [drint-io/drint-mcp](https://github.com/drint-io/drint-mcp)
 
 ## License
